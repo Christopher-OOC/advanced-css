@@ -1,0 +1,26 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Natours project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "sass --watch sass/test.scss css/test.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christopher-OOC/advanced-css.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "Olojede Christopher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Christopher-OOC/advanced-css/issues"
+  },
+  "homepage": "https://github.com/Christopher-OOC/advanced-css#readme",
+  "devDependencies": {
+    "sass": "^1.85.0"
+  }
+}
