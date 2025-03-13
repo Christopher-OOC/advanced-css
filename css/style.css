@@ -644,7 +644,7 @@ body {
 .navigation__checkbox:checked + .navigation__button .navigation__icon {
   background-color: transparent;
 }
-.navigation__checkbox:checked + .navigation__button .navigation__icon::before {
+j8 .navigation__checkbox:checked + .navigation__button .navigation__icon::before {
   transform: rotate(135deg);
   top: 0;
 }
